@@ -57,7 +57,7 @@ Currently learning [something new] and exploring [interest areas].
 | [Project 2](https://github.com/yourname/project2) | Another description. | JavaScript, React |
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aristoneangelo&show_icons=true&theme=dracula)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
